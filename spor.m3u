@@ -1,5 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTSS 1" tvg-logo="http://72register34.com/logos/bein1-hd.png" group-title="🇹🇷 SPOR PANEL 1",BEIN SPORTSS 1
-#EXTVLCOPT:http-referrer=https://landortv5.live/
-https://bidaye.mevzuhls23.cfd/yayinzirve.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR:TRT 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/trt1.png" group-title="📺 ULUSAL TV",TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TR:TRT 1 HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/trt1.png" group-title="📺 ULUSAL TV",TRT 11 HD
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 group-title="📺 ULUSAL TV" tvg-logo="https://www.logovector.org/wp-content/uploads/logos/png/t/trt_2_logo.png" group-title="📺 ULUSAL TV",TRT 2
+http://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="TR:ATV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/atv.png" group-title="📺 ULUSAL TV",ATV HD
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="TR:SHOW TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/showtv.png" group-title="📺 ULUSAL TV",SHOW TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="TR:STAR TV HD" tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/startv.png" group-title="📺 ULUSAL TV",STAR TV HD
+http://116.202.238.88/STARTV_TR/index.m3u8
+
